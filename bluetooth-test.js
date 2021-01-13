@@ -8,7 +8,7 @@ async function connectBluetooth() {
   const device = await navigator.bluetooth.requestDevice({
     filters: [{ services: ["heart_rate"] }],
   });
-  const server = await device.gatt.connect();
+  const server = await device.gatt.connect(); // GATT = Generic ATTribute profile
 
   // Get heart rate data
   const hr = await server.getPrimaryService("heart_rate");
