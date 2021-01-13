@@ -18,6 +18,6 @@ npx serve
 
 Then:
 
-1. http://localhost:5000
+1. <http://localhost:5000>
 2. In your browser, click on "Connect Device" and select your mobile device.
 3. In the BLE app, click on "Heart Rate Monitor" and then "NOTIFY" to see `console.log`s in the paired browser.
