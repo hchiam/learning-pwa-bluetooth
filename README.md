@@ -6,6 +6,8 @@ You can easily connect a web app to an external bluetooth/NFC/USB/etc device. No
 
 <https://youtu.be/ppwagkhrZJs?t=219>
 
+<https://fireship.io/lessons/pwa-top-features>
+
 <https://github.com/fireship-io/7-pwa-features-demo>
 
 <https://github.com/fireship-io/7-pwa-features-demo/blob/main/app/bluetooth.js>
